@@ -1,0 +1,11 @@
+*.log
+*.tmp
+*.swp
+*~
+.wine/
+wine-apps/
+.vscode/
+.idea/
+*.sublime-*
+.DS_Store
+Thumbs.db
