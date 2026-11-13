@@ -1,0 +1,28 @@
+
+---
+
+## 4️⃣ `CHANGELOG.md`
+
+```markdown
+# Changelog
+
+## [1.1.0] - 2026-11-13
+
+### Añadido
+- Opción `--fix-window`.
+- Generación de `prefix-recipe.txt`.
+
+### Cambiado
+- Verbos por defecto: `corefonts vcrun2019 wine-mono wine-gecko`.
+
+## [1.0.0] - 2026-11-13
+
+### Añadido
+- Script `install.sh` con prefijo aislado.
+- Instalación automática de dependencias con `winetricks`.
+- Soporte DXVK (`--dxvk`).
+- Detección de arquitectura.
+- Extracción de icono.
+- Lanzador `.desktop`.
+- Logging por instalación.
+- Detección de `ntsync`.
